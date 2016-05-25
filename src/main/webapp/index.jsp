@@ -18,6 +18,8 @@ and <a href="http://shiro.apache.org/web.html#Web-taglibrary">Shiro Tag Lib</a><
 <p>
 LOGIN : <a href="login.jsp">login.jsp</a><br>
 LOGOUT : <a href="logout">logout</a><br>
+Page1 : <a href="private/page1.jsp">private/page1.jsp</a><br>
+Page2 : <a href="private2/page2.jsp">private2/page2.jsp</a><br>
 
 </p>
 Shiro TagLib : <br> 
