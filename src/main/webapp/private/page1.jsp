@@ -11,6 +11,6 @@
 <h1>Page 1</h1>
 Shiro TagLib : <br> 
 Shiro user = <shiro:guest>Guest</shiro:guest><shiro:user>User</shiro:user><br> 
-
+<a href="../logout">logout</a><br> 
 </body>
 </html>
